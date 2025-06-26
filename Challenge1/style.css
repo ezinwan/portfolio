@@ -171,7 +171,7 @@ nav a:hover {
 button{
     position: relative;
     top:100px;
-    left: 15%;
+    left: 10%;
     width: 400px;
     background-color: transparent;
     border-color: var(--lilac);
